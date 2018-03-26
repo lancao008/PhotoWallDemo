@@ -10,7 +10,7 @@
 ### 截图
 <a href="../art/recyclerviewtest0.png"><img src="../art/recyclerviewtest0.png" width="40%"/></a><img height="0" width="8px"/><a href="../art/recyclerviewtest1.png"><img src="../art/recyclerviewtest1.png" width="40%"/></a>
 
-App体验链接:
+App体验链接:[recyclerviewtest-debug.apk](https://github.com/simplebam/PhotoWallDemo/releases/download/v1.0/recyclerviewtest-debug.apk)
 
 
 
