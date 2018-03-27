@@ -1,6 +1,8 @@
 package com.yueyue.recyclerviewtest;
 
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Looper;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.Snackbar;
@@ -162,19 +164,13 @@ public class MainActivity extends BaseActivity {
     }
 
     private void refreshFruits() {
+        //android中延迟执行某个任务 - CSDN博客 https://blog.csdn.net/qinde025/article/details/6828723
         mSwipeFresh.setRefreshing(true);
-        new Thread(() -> {
-            try {
-                Thread.sleep(2000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-
-            runOnUiThread(() -> {
-                initFruits();
-                mSwipeFresh.setRefreshing(false);
-            });
-
-        }).start();
+        new Thread(() -> new Handler(Looper.getMainLooper()).postDelayed(() -> {
+                    initFruits();
+                    mSwipeFresh.setRefreshing(false);
+                }
+                , 2000))
+                .start();
     }
 }
