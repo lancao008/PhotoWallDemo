@@ -1,1 +1,1 @@
-include ':recyclerviewtest', ':photoswalldemo'
+include ':recyclerviewtest'
