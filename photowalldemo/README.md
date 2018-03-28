@@ -1,15 +1,15 @@
-# PhotoWallDemo
+## PhotoWallDemo
 照片墙Demo
 
 
-## 前言
+### 前言
 * 在开发中,我们很常都会遇到Android程序爆OOM的问题,然而造成个这问题的原因很多,但
   最为常见就是图片加载过多过大引发的OOM,希望撸一下郭霖先生的照片墙以巩固一下该知
   识点
 
 
 ### 截图
-<a href="./art/photowalldemo.png"><img src="./art/photowalldemo.png" width="40%"/></a>
+<a href="../art/photowalldemo.png"><img src="../art/photowalldemo.png" width="40%"/></a>
 
 App体验链接:[recyclerviewtest-debug.apk](https://github.com/simplebam/PhotoWallDemo/releases/download/v1.0/recyclerviewtest-debug.apk)
 
