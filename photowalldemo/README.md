@@ -11,8 +11,7 @@
 ### 截图
 <a href="../art/photowalldemo.png"><img src="../art/photowalldemo.png" width="40%"/></a>
 
-App体验链接:[recyclerviewtest-debug.apk](https://github.com/simplebam/PhotoWallDemo/releases/download/v1.0/recyclerviewtest-debug.apk)
-
+App体验链接:[photowalldemo](https://github.com/simplebam/PhotoWallDemo/releases/download/v2.0/photowalldemo-debug.apk)
 
 原项目地址:[Android照片墙应用实现，再多的图片也不怕崩溃 - CSDN博客](https://blog.csdn.net/guolin_blog/article/details/9526203)
 
