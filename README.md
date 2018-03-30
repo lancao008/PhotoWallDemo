@@ -47,7 +47,7 @@ App体验链接:[photowalldemo](https://github.com/simplebam/PhotoWallDemo/relea
 ### 截图
 <a href="./art/photowallfallsdemo.png"><img src="./art/photowallfallsdemo.png" width="40%"/></a>
 
-App体验链接:[photowalldemo](https://github.com/simplebam/PhotoWallDemo/releases/download/v2.0/photowalldemo-debug.apk)
+App体验链接:[photowallfallsdemo](https://github.com/simplebam/PhotoWallDemo/releases/download/v3.0/photowallfallsdemo-debug.apk)
 
 原项目地址:[Android瀑布流照片墙实现，体验不规则排列的美感 - CSDN博客](https://blog.csdn.net/guolin_blog/article/details/10470797)
 
